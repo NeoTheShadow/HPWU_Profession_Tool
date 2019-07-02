@@ -10,10 +10,11 @@ h3 {
 	text-align:right
 }
 hr {
-	width:70%
+	width:95%
 }
 p {
-	margin:0
+	margin:0;
+	text-align: justify
 }
 .bs{
 	color:#fff;
@@ -89,18 +90,18 @@ p {
 	font-size:16px;
 	margin:3px 10px;
 	text-align:left;
-	display:inline-block
 }
 .summary{
 	background-color:#555;
 	border-radius:10px;
 	color:#fff;
 	display:inline-block;
-	margin-left:12px;
-	max-width:300px;
-	padding:10px;
-	margin-top:0px;
-	position:absolute;
+	margin-left:24px;
+	max-width:344px;
+	padding:12px;
+	top: 50%;
+	transform: translateY(-50%);
+	position:fixed;
 }
 .title{
 	color:#69d;
@@ -122,7 +123,6 @@ p {
 }
 #totalReqs{
 	font-family:Verdana;
-	margin-left:10px;
-	margin-right:10px;
+	margin:10px 10px;
 	text-align:right
 }
