@@ -1,1 +1,128 @@
-body{background-repeat:no-repeat;background-size:cover}h3{color:#f2a34d;font-family:Verdana;margin-left:10px;margin-right:10px;text-align:right}hr{width:70%}p{margin:0}.bs{color:#fff;font-family:Verdana;font-size:16px}.buff{color:#f2a34d;font-family:Verdana;font-size:16px;font-weight:700}.container{margin:50px auto;padding-left:100px;position:relative;width:912px}.countertext{background-color:rgba(0,0,0,.5);color:#fff;cursor:default;font-family:Verdana;font-size:14px;font-weight:700;margin-left:100px;margin-top:126px;position:absolute;z-index:900}.desc{color:#fff;font-family:Verdana;font-size:16px;margin-left:3px}.icon{margin-left:3px;margin-right:5px}.spell-desc{color:#fff;font-family:Verdana;font-size:16px}.spell_icon{width:50px;height:50px;display:none;visibility:hidden}.spelltooltip{background-color:#000;border-radius:6px;max-width:280px;padding:10px;bottom:150px;position:absolute;visibility:hidden;z-index:1000}.stat{color:#f2a34d;display:inline-block;font-family:Verdana;font-size:16px;margin:3px 10px;text-align:left}.stat-label{color:#ddd;display:inline-block;font-family:Verdana;font-size:16px;margin:3px 10px;text-align:left;display:inline-block}.summary{background-color:#555;border-radius:10px;color:#fff;display:inline-block;margin-left:12px;max-width:300px;padding:10px;position:fixed;top:180px}.title{color:#69d;font-family:Verdana;font-size:16px;font-weight:700;margin-bottom:10px}.tooltiptext{background-color:#000;border-radius:6px;max-width:334px;margin-top:126px;padding:10px;position:absolute;visibility:hidden;-webkit-transform:translate(0,-50%);z-index:1000}#totalReqs{font-family:Verdana;margin-left:10px;margin-right:10px;text-align:right}
+body {
+	background-repeat:no-repeat;
+	background-size:cover
+}
+h3 {
+	color:#f2a34d;
+	font-family:Verdana;
+	margin-left:10px;
+	margin-right:10px;
+	text-align:right
+}
+hr {
+	width:70%
+}
+p {
+	margin:0
+}
+.bs{
+	color:#fff;
+	font-family:Verdana;
+	font-size:16px
+}
+.buff{
+	color:#f2a34d;
+	font-family:Verdana;
+	font-size:16px;
+	font-weight:700
+}
+.container{
+	margin:50px auto;
+	padding-left:100px;
+	position:relative;
+	width:912px
+}
+.countertext{
+	background-color:rgba(0,0,0,.5);
+	color:#fff;cursor:default;
+	font-family:Verdana;
+	font-size:14px;
+	font-weight:700;
+	margin-left:100px;
+	margin-top:126px;
+	position:absolute;
+	z-index:900
+}
+.desc{
+	color:#fff;
+	font-family:Verdana;
+	font-size:16px;
+	margin-left:3px
+}
+.icon{
+	margin-left:3px;
+	margin-right:5px
+}
+.spell-desc{
+	color:#fff;
+	font-family:Verdana;
+	font-size:16px
+}
+.spell_icon{
+	width:50px;
+	height:50px;
+	display:none;
+	visibility:hidden
+}
+.spelltooltip{
+	background-color:#000;
+	border-radius:6px;
+	max-width:280px;
+	padding:10px;
+	bottom:150px;
+	position:absolute;
+	visibility:hidden;
+	z-index:1000
+}
+.stat{
+	color:#f2a34d;
+	display:inline-block;
+	font-family:Verdana;
+	font-size:16px;
+	margin:3px 10px;
+	text-align:left
+}
+.stat-label{
+	color:#ddd;
+	display:inline-block;
+	font-family:Verdana;
+	font-size:16px;
+	margin:3px 10px;
+	text-align:left;
+	display:inline-block
+}
+.summary{
+	background-color:#555;
+	border-radius:10px;
+	color:#fff;
+	display:inline-block;
+	margin-left:12px;
+	max-width:300px;
+	padding:10px;
+	margin-top:0px;
+	position:absolute;
+}
+.title{
+	color:#69d;
+	font-family:Verdana;
+	font-size:16px;
+	font-weight:700;
+	margin-bottom:10px
+}
+.tooltiptext{
+	background-color:#000;
+	border-radius:6px;
+	max-width:334px;
+	margin-top:126px;
+	padding:10px;
+	position:absolute;
+	visibility:hidden;
+	-webkit-transform:translate(0,-50%);
+	z-index:1000
+}
+#totalReqs{
+	font-family:Verdana;
+	margin-left:10px;
+	margin-right:10px;
+	text-align:right
+}
